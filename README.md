@@ -1,7 +1,7 @@
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 
 # Data Structures and Algorithms
-> Last Updated: 22.01.2019
+> Last Updated: 24.01.2019
 
 Data Structures and Algorithms with Python
 
@@ -15,6 +15,8 @@ Data Structures and Algorithms with Python
 | Deque                     | [Code](https://github.com/mrabdullahsahin/data-structures-algorithms/blob/master/dataStructures/Deque.ipynb) |
 | Linked List               | [Code](https://github.com/mrabdullahsahin/data-structures-algorithms/blob/master/dataStructures/linked_list.ipynb) |
 | Recursion                 | [Code](https://github.com/mrabdullahsahin/data-structures-algorithms/blob/master/dataStructures/recursion.ipynb) |
+| Binary Tree                 | [Code](https://github.com/mrabdullahsahin/data-structures-algorithms/blob/master/dataStructures/binary_tree.ipynb) |
+| Binary Search Tree                 | [Code](https://github.com/mrabdullahsahin/data-structures-algorithms/blob/master/dataStructures/binary_search_tree.ipynb) |
 
 ## Algorithms
 
@@ -26,3 +28,9 @@ Data Structures and Algorithms with Python
 | Jump Search                     | [Code](https://github.com/mrabdullahsahin/data-structures-algorithms/blob/master/algorithms/jump_search.ipynb) |
 | Bubble Sort               | [Code](https://github.com/mrabdullahsahin/data-structures-algorithms/blob/master/algorithms/bubble_sort.ipynb) |
 | Merge Sort                 | [Code](https://github.com/mrabdullahsahin/data-structures-algorithms/blob/master/algorithms/merge_sort.ipynb) |
+| Insertion Sort                 | [Code](https://github.com/mrabdullahsahin/data-structures-algorithms/blob/master/algorithms/insertion_sort.ipynb) |
+| Selection Sort                 | [Code](https://github.com/mrabdullahsahin/data-structures-algorithms/blob/master/algorithms/selection_sort.ipynb) |
+| Counting Sort                 | [Code](https://github.com/mrabdullahsahin/data-structures-algorithms/blob/master/algorithms/counting_sort.ipynb) |
+| Quick Sort                 | [Code](https://github.com/mrabdullahsahin/data-structures-algorithms/blob/master/algorithms/quick_sort.ipynb) |
+
+
